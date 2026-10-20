@@ -1,0 +1,3298 @@
+{
+    "nodes": [
+        {
+            "id": "The Shawshank Redemption",
+            "year": 1994,
+            "score": 9.3,
+            "director": "Frank Darabont ",
+            "actor1": "Tim Robbins",
+            "actor2": "Morgan Freeman",
+            "link": "/title/tt0111161/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 1
+        },
+        {
+            "id": "The Godfather",
+            "year": 1972,
+            "score": 9.2,
+            "director": "Francis Ford Coppola ",
+            "actor1": "Marlon Brando",
+            "actor2": "Al Pacino",
+            "link": "/title/tt0068646/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 2
+        },
+        {
+            "id": "The Dark Knight",
+            "year": 2008,
+            "score": 9.1,
+            "director": "Christopher Nolan ",
+            "actor1": "Christian Bale",
+            "actor2": "Heath Ledger",
+            "link": "/title/tt0468569/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 3
+        },
+        {
+            "id": "The Godfather Part II",
+            "year": 1974,
+            "score": 9,
+            "director": "Francis Ford Coppola ",
+            "actor1": "Al Pacino",
+            "actor2": "Robert De Niro",
+            "link": "/title/tt0071562/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 4
+        },
+        {
+            "id": "The Lord of the Rings: The Return of the King",
+            "year": 2003,
+            "score": 9,
+            "director": "Peter Jackson ",
+            "actor1": "Elijah Wood",
+            "actor2": "Viggo Mortensen",
+            "link": "/title/tt0167260/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 5
+        },
+        {
+            "id": "12 Angry Men",
+            "year": 1957,
+            "score": 9,
+            "director": "Sidney Lumet ",
+            "actor1": "Henry Fonda",
+            "actor2": "Lee J. Cobb",
+            "link": "/title/tt0050083/",
+            "img": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 6
+        },
+        {
+            "id": "Schindler's List",
+            "year": 1993,
+            "score": 9,
+            "director": "Steven Spielberg ",
+            "actor1": "Liam Neeson",
+            "actor2": "Ralph Fiennes",
+            "link": "/title/tt0108052/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 7
+        },
+        {
+            "id": "The Lord of the Rings: The Fellowship of the Ring",
+            "year": 2001,
+            "score": 8.9,
+            "director": "Peter Jackson ",
+            "actor1": "Elijah Wood",
+            "actor2": "Ian McKellen",
+            "link": "/title/tt0120737/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 8
+        },
+        {
+            "id": "Pulp Fiction",
+            "year": 1994,
+            "score": 8.8,
+            "director": "Quentin Tarantino ",
+            "actor1": "John Travolta",
+            "actor2": "Uma Thurman",
+            "link": "/title/tt0110912/",
+            "img": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 9
+        },
+        {
+            "id": "The Lord of the Rings: The Two Towers",
+            "year": 2002,
+            "score": 8.8,
+            "director": "Peter Jackson ",
+            "actor1": "Elijah Wood",
+            "actor2": "Ian McKellen",
+            "link": "/title/tt0167261/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 10
+        },
+        {
+            "id": "The Good, the Bad and the Ugly",
+            "year": 1966,
+            "score": 8.8,
+            "director": "Sergio Leone ",
+            "actor1": "Clint Eastwood",
+            "actor2": "Eli Wallach",
+            "link": "/title/tt0060196/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 11
+        },
+        {
+            "id": "Forrest Gump",
+            "year": 1994,
+            "score": 8.8,
+            "director": "Robert Zemeckis ",
+            "actor1": "Tom Hanks",
+            "actor2": "Robin Wright",
+            "link": "/title/tt0109830/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 12
+        },
+        {
+            "id": "Inception",
+            "year": 2010,
+            "score": 8.8,
+            "director": "Christopher Nolan ",
+            "actor1": "Leonardo DiCaprio",
+            "actor2": "Joseph Gordon-Levitt",
+            "link": "/title/tt1375666/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 13
+        },
+        {
+            "id": "Fight Club",
+            "year": 1999,
+            "score": 8.8,
+            "director": "David Fincher ",
+            "actor1": "Brad Pitt",
+            "actor2": "Edward Norton",
+            "link": "/title/tt0137523/",
+            "img": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 14
+        },
+        {
+            "id": "Star Wars: Episode V - The Empire Strikes Back",
+            "year": 1980,
+            "score": 8.7,
+            "director": "Irvin Kershner ",
+            "actor1": "Mark Hamill",
+            "actor2": "Harrison Ford",
+            "link": "/title/tt0080684/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 15
+        },
+        {
+            "id": "The Matrix",
+            "year": 1999,
+            "score": 8.7,
+            "director": "Lana Wachowski ",
+            "actor1": "Keanu Reeves",
+            "actor2": "Laurence Fishburne",
+            "link": "/title/tt0133093/",
+            "img": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 16
+        },
+        {
+            "id": "Interstellar",
+            "year": 2014,
+            "score": 8.7,
+            "director": "Christopher Nolan ",
+            "actor1": "Matthew McConaughey",
+            "actor2": "Anne Hathaway",
+            "link": "/title/tt0816692/",
+            "img": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 17
+        },
+        {
+            "id": "GoodFellas",
+            "year": 1990,
+            "score": 8.7,
+            "director": "Martin Scorsese ",
+            "actor1": "Robert De Niro",
+            "actor2": "Ray Liotta",
+            "link": "/title/tt0099685/",
+            "img": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 18
+        },
+        {
+            "id": "One Flew Over the Cuckoo's Nest",
+            "year": 1975,
+            "score": 8.6,
+            "director": "Miloš Forman ",
+            "actor1": "Jack Nicholson",
+            "actor2": "Louise Fletcher",
+            "link": "/title/tt0073486/",
+            "img": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 19
+        },
+        {
+            "id": "Seven",
+            "year": 1995,
+            "score": 8.6,
+            "director": "David Fincher ",
+            "actor1": "Morgan Freeman",
+            "actor2": "Brad Pitt",
+            "link": "/title/tt0114369/",
+            "img": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 20
+        },
+        {
+            "id": "It's a Wonderful Life",
+            "year": 1946,
+            "score": 8.6,
+            "director": "Frank Capra ",
+            "actor1": "James Stewart",
+            "actor2": "Donna Reed",
+            "link": "/title/tt0038650/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 21
+        },
+        {
+            "id": "The Silence of the Lambs",
+            "year": 1991,
+            "score": 8.6,
+            "director": "Jonathan Demme ",
+            "actor1": "Jodie Foster",
+            "actor2": "Anthony Hopkins",
+            "link": "/title/tt0102926/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 22
+        },
+        {
+            "id": "Saving Private Ryan",
+            "year": 1998,
+            "score": 8.6,
+            "director": "Steven Spielberg ",
+            "actor1": "Tom Hanks",
+            "actor2": "Matt Damon",
+            "link": "/title/tt0120815/",
+            "img": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 23
+        },
+        {
+            "id": "Seven Samurai",
+            "year": 1954,
+            "score": 8.6,
+            "director": "Akira Kurosawa ",
+            "actor1": "Toshirō Mifune",
+            "actor2": "Takashi Shimura",
+            "link": "/title/tt0047478/",
+            "img": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 24
+        },
+        {
+            "id": "The Green Mile",
+            "year": 1999,
+            "score": 8.6,
+            "director": "Frank Darabont ",
+            "actor1": "Tom Hanks",
+            "actor2": "Michael Clarke Duncan",
+            "link": "/title/tt0120689/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 25
+        },
+        {
+            "id": "City of God",
+            "year": 2002,
+            "score": 8.6,
+            "director": "Fernando Meirelles ",
+            "actor1": "Alexandre Rodrigues",
+            "actor2": "Leandro Firmino",
+            "link": "/title/tt0317248/",
+            "img": "https://m.media-amazon.com/images/M/MV5BYjY4NGI5OTUtY2ZlZS00Zjk4LTk5N2MtN2JmYWVjNGNmMGRlXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 26
+        },
+        {
+            "id": "Life Is Beautiful",
+            "year": 1997,
+            "score": 8.6,
+            "director": "Roberto Benigni ",
+            "actor1": "Roberto Benigni",
+            "actor2": "Nicoletta Braschi",
+            "link": "/title/tt0118799/",
+            "img": "https://m.media-amazon.com/images/M/MV5BZTBhOGYzZjQtYzE0Mi00MGIwLWE0MWYtNzMxNTM2OTFkM2NjXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 27
+        },
+        {
+            "id": "Terminator 2: Judgment Day",
+            "year": 1991,
+            "score": 8.6,
+            "director": "James Cameron ",
+            "actor1": "Arnold Schwarzenegger",
+            "actor2": "Linda Hamilton",
+            "link": "/title/tt0103064/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 28
+        },
+        {
+            "id": "Back to the Future",
+            "year": 1985,
+            "score": 8.5,
+            "director": "Robert Zemeckis ",
+            "actor1": "Michael J. Fox",
+            "actor2": "Christopher Lloyd",
+            "link": "/title/tt0088763/",
+            "img": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 29
+        },
+        {
+            "id": "Star Wars: Episode IV - A New Hope",
+            "year": 1977,
+            "score": 8.6,
+            "director": "George Lucas ",
+            "actor1": "Mark Hamill",
+            "actor2": "Harrison Ford",
+            "link": "/title/tt0076759/",
+            "img": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 30
+        },
+        {
+            "id": "Spirited Away",
+            "year": 2001,
+            "score": 8.6,
+            "director": "Hayao Miyazaki ",
+            "actor1": "Miyu Irino",
+            "actor2": "Rumi Hiiragi",
+            "link": "/title/tt0245429/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 31
+        },
+        {
+            "id": "Gladiator",
+            "year": 2000,
+            "score": 8.5,
+            "director": "Ridley Scott ",
+            "actor1": "Russell Crowe",
+            "actor2": "Joaquin Phoenix",
+            "link": "/title/tt0172495/",
+            "img": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 32
+        },
+        {
+            "id": "The Pianist",
+            "year": 2002,
+            "score": 8.5,
+            "director": "Roman Polanski ",
+            "actor1": "Adrien Brody",
+            "actor2": "Thomas Kretschmann",
+            "link": "/title/tt0253474/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 33
+        },
+        {
+            "id": "Kill Bill: The Whole Bloody Affair",
+            "year": 2004,
+            "score": 8.7,
+            "director": "Quentin Tarantino ",
+            "actor1": "Vivica A. Fox",
+            "actor2": "Ambrosia Kelley",
+            "link": "/title/tt6019206/",
+            "img": "https://m.media-amazon.com/images/M/MV5BZDc2YzhkODAtZmRmZS00YzcxLWJkYWEtM2ZhZjY3MmMyZmJiXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 34
+        },
+        {
+            "id": "Parasite",
+            "year": 2019,
+            "score": 8.5,
+            "director": "Bong Joon Ho ",
+            "actor1": "Song Kang-ho",
+            "actor2": "Lee Sun-kyun",
+            "link": "/title/tt6751668/",
+            "img": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 35
+        },
+        {
+            "id": "Grave of the Fireflies",
+            "year": 1988,
+            "score": 8.5,
+            "director": "Isao Takahata ",
+            "actor1": "Tsutomu Tatsumi",
+            "actor2": "Ayano Shiraishi",
+            "link": "/title/tt0095327/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 36
+        },
+        {
+            "id": "Harakiri",
+            "year": 1962,
+            "score": 8.6,
+            "director": "Masaki Kobayashi ",
+            "actor1": "Tatsuya Nakadai",
+            "actor2": "Akira Ishihama",
+            "link": "/title/tt0056058/",
+            "img": "https://m.media-amazon.com/images/M/MV5BZThiZjU5ZDQtZDI4Mi00ZGYyLTkzOTktYmIzZTFlZTkxYzg5XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 37
+        },
+        {
+            "id": "The Lion King",
+            "year": 1994,
+            "score": 8.5,
+            "director": "Roger Allers ",
+            "actor1": "Matthew Broderick",
+            "actor2": "Jeremy Irons",
+            "link": "/title/tt0110357/",
+            "img": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 38
+        },
+        {
+            "id": "Psycho",
+            "year": 1960,
+            "score": 8.5,
+            "director": "Alfred Hitchcock ",
+            "actor1": "Anthony Perkins",
+            "actor2": "Janet Leigh",
+            "link": "/title/tt0054215/",
+            "img": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 39
+        },
+        {
+            "id": "The Departed",
+            "year": 2006,
+            "score": 8.5,
+            "director": "Martin Scorsese ",
+            "actor1": "Leonardo DiCaprio",
+            "actor2": "Matt Damon",
+            "link": "/title/tt0407887/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 40
+        },
+        {
+            "id": "Whiplash",
+            "year": 2014,
+            "score": 8.5,
+            "director": "Damien Chazelle ",
+            "actor1": "Miles Teller",
+            "actor2": "J.K. Simmons",
+            "link": "/title/tt2582802/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 41
+        },
+        {
+            "id": "The Prestige",
+            "year": 2006,
+            "score": 8.5,
+            "director": "Christopher Nolan ",
+            "actor1": "Christian Bale",
+            "actor2": "Hugh Jackman",
+            "link": "/title/tt0482571/",
+            "img": "https://m.media-amazon.com/images/M/MV5BM2Y0YmM5MWYtZTYzNi00ZjU5LTlmOGYtZDQ4ODQyMjAzNjQ2XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 42
+        },
+        {
+            "id": "American History X",
+            "year": 1998,
+            "score": 8.5,
+            "director": "Tony Kaye ",
+            "actor1": "Edward Norton",
+            "actor2": "Edward Furlong",
+            "link": "/title/tt0120586/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMzhiOTQ0NDItOTg0Zi00OGVmLWE0OGEtMTI4NDM0NWMxZWU4XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 43
+        },
+        {
+            "id": "Spider-Man: Across the Spider-Verse",
+            "year": 2023,
+            "score": 8.5,
+            "director": "Joaquim Dos Santos ",
+            "actor1": "Shameik Moore",
+            "actor2": "Hailee Steinfeld",
+            "link": "/title/tt9362722/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 44
+        },
+        {
+            "id": "Cinema Paradiso",
+            "year": 1988,
+            "score": 8.5,
+            "director": "Giuseppe Tornatore ",
+            "actor1": "Philippe Noiret",
+            "actor2": "Enzo Cannavale",
+            "link": "/title/tt0095765/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTljNzc4YWEtYTZlMS00ODMyLWIwMTAtNWQxY2VkMDEwYTk5XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 45
+        },
+        {
+            "id": "Léon: The Professional",
+            "year": 1994,
+            "score": 8.5,
+            "director": "Luc Besson ",
+            "actor1": "Jean Reno",
+            "actor2": "Gary Oldman",
+            "link": "/title/tt0110413/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 46
+        },
+        {
+            "id": "Casablanca",
+            "year": 1942,
+            "score": 8.5,
+            "director": "Michael Curtiz ",
+            "actor1": "Humphrey Bogart",
+            "actor2": "Ingrid Bergman",
+            "link": "/title/tt0034583/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 47
+        },
+        {
+            "id": "The Intouchables",
+            "year": 2011,
+            "score": 8.5,
+            "director": "Olivier Nakache ",
+            "actor1": "François Cluzet",
+            "actor2": "Omar Sy",
+            "link": "/title/tt1675434/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 48
+        },
+        {
+            "id": "The Usual Suspects",
+            "year": 1995,
+            "score": 8.5,
+            "director": "Bryan Singer ",
+            "actor1": "Kevin Spacey",
+            "actor2": "Gabriel Byrne",
+            "link": "/title/tt0114814/",
+            "img": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 49
+        },
+        {
+            "id": "Django Unchained",
+            "year": 2012,
+            "score": 8.5,
+            "director": "Quentin Tarantino ",
+            "actor1": "Jamie Foxx",
+            "actor2": "Christoph Waltz",
+            "link": "/title/tt1853728/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 50
+        },
+        {
+            "id": "Alien",
+            "year": 1979,
+            "score": 8.4,
+            "director": "Ridley Scott ",
+            "actor1": "Sigourney Weaver",
+            "actor2": "Tom Skerritt",
+            "link": "/title/tt0078748/",
+            "img": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 51
+        },
+        {
+            "id": "Rear Window",
+            "year": 1954,
+            "score": 8.4,
+            "director": "Alfred Hitchcock ",
+            "actor1": "James Stewart",
+            "actor2": "Grace Kelly",
+            "link": "/title/tt0047396/",
+            "img": "https://m.media-amazon.com/images/M/MV5BODZhOWI1ODgtMzdiOS00YjNkLTgwOGUtYmIyZDg5ZmQwMzQ1XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 52
+        },
+        {
+            "id": "Modern Times",
+            "year": 1936,
+            "score": 8.5,
+            "director": "Charles Chaplin ",
+            "actor1": "Charles Chaplin",
+            "actor2": "Paulette Goddard",
+            "link": "/title/tt0027977/",
+            "img": "https://m.media-amazon.com/images/M/MV5BODVkZGFhNGQtYjdiYi00Njc4LWFmYTItNTlmNzJjMTg1ZDc5XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 53
+        },
+        {
+            "id": "Once Upon a Time in the West",
+            "year": 1968,
+            "score": 8.5,
+            "director": "Sergio Leone ",
+            "actor1": "Henry Fonda",
+            "actor2": "Charles Bronson",
+            "link": "/title/tt0064116/",
+            "img": "https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 54
+        },
+        {
+            "id": "WALL·E",
+            "year": 2008,
+            "score": 8.4,
+            "director": "Andrew Stanton ",
+            "actor1": "Ben Burtt",
+            "actor2": "Elissa Knight",
+            "link": "/title/tt0910970/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 55
+        },
+        {
+            "id": "City Lights",
+            "year": 1931,
+            "score": 8.5,
+            "director": "Charles Chaplin ",
+            "actor1": "Charles Chaplin",
+            "actor2": "Virginia Cherrill",
+            "link": "/title/tt0021749/",
+            "img": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 56
+        },
+        {
+            "id": "Apocalypse Now",
+            "year": 1979,
+            "score": 8.4,
+            "director": "Francis Ford Coppola ",
+            "actor1": "Martin Sheen",
+            "actor2": "Marlon Brando",
+            "link": "/title/tt0078788/",
+            "img": "https://m.media-amazon.com/images/M/MV5BZDhiMTljYjYtODc1Yy00MmEwLTg2OTYtYmE1YTRmNDE4MmEwXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 57
+        },
+        {
+            "id": "Memento",
+            "year": 2000,
+            "score": 8.4,
+            "director": "Christopher Nolan ",
+            "actor1": "Guy Pearce",
+            "actor2": "Carrie-Anne Moss",
+            "link": "/title/tt0209144/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 58
+        },
+        {
+            "id": "Avengers: Infinity War",
+            "year": 2018,
+            "score": 8.4,
+            "director": "Anthony Russo ",
+            "actor1": "Robert Downey Jr.",
+            "actor2": "Chris Hemsworth",
+            "link": "/title/tt4154756/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 59
+        },
+        {
+            "id": "Dune: Part Two",
+            "year": 2024,
+            "score": 8.4,
+            "director": "Denis Villeneuve ",
+            "actor1": "Timothée Chalamet",
+            "actor2": "Zendaya",
+            "link": "/title/tt15239678/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 60
+        },
+        {
+            "id": "Raiders of the Lost Ark",
+            "year": 1981,
+            "score": 8.4,
+            "director": "Steven Spielberg ",
+            "actor1": "Harrison Ford",
+            "actor2": "Karen Allen",
+            "link": "/title/tt0082971/",
+            "img": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 61
+        },
+        {
+            "id": "Spider-Man: Into the Spider-Verse",
+            "year": 2018,
+            "score": 8.4,
+            "director": "Bob Persichetti ",
+            "actor1": "Shameik Moore",
+            "actor2": "Jake Johnson",
+            "link": "/title/tt4633694/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 62
+        },
+        {
+            "id": "The Odyssey",
+            "year": 2026,
+            "score": 8.4,
+            "director": "Christopher Nolan ",
+            "actor1": "Matt Damon",
+            "actor2": "Tom Holland",
+            "link": "/title/tt33764258/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 63
+        },
+        {
+            "id": "The Lives of Others",
+            "year": 2006,
+            "score": 8.4,
+            "director": "Florian Henckel von Donnersmarck ",
+            "actor1": "Ulrich Mühe",
+            "actor2": "Martina Gedeck",
+            "link": "/title/tt0405094/",
+            "img": "https://m.media-amazon.com/images/M/MV5BYjM1N2Q0YWEtN2E5MC00NDM3LTk2NTEtMTc1NTk5OTA5ZGIzXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 64
+        },
+        {
+            "id": "Sunset Boulevard",
+            "year": 1950,
+            "score": 8.4,
+            "director": "Billy Wilder ",
+            "actor1": "William Holden",
+            "actor2": "Gloria Swanson",
+            "link": "/title/tt0043014/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 65
+        },
+        {
+            "id": "Witness for the Prosecution",
+            "year": 1957,
+            "score": 8.4,
+            "director": "Billy Wilder ",
+            "actor1": "Tyrone Power",
+            "actor2": "Marlene Dietrich",
+            "link": "/title/tt0051201/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNjRhNTQzMzQtMWViMi00ODQ1LTg0MTEtYWE4ZWZlYjM4YjJhXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 66
+        },
+        {
+            "id": "Paths of Glory",
+            "year": 1957,
+            "score": 8.4,
+            "director": "Stanley Kubrick ",
+            "actor1": "Kirk Douglas",
+            "actor2": "Ralph Meeker",
+            "link": "/title/tt0050825/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 67
+        },
+        {
+            "id": "Inglourious Basterds",
+            "year": 2009,
+            "score": 8.4,
+            "director": "Quentin Tarantino ",
+            "actor1": "Brad Pitt",
+            "actor2": "Diane Kruger",
+            "link": "/title/tt0361748/",
+            "img": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 68
+        },
+        {
+            "id": "The Shining",
+            "year": 1980,
+            "score": 8.4,
+            "director": "Stanley Kubrick ",
+            "actor1": "Jack Nicholson",
+            "actor2": "Shelley Duvall",
+            "link": "/title/tt0081505/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 69
+        },
+        {
+            "id": "The Great Dictator",
+            "year": 1940,
+            "score": 8.4,
+            "director": "Charles Chaplin ",
+            "actor1": "Charles Chaplin",
+            "actor2": "Paulette Goddard",
+            "link": "/title/tt0032553/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNDE3NmIzZjItMzNlMi00YWI0LWIzMTktMGRkMWE0ZDhiMmM5XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 70
+        },
+        {
+            "id": "Aliens",
+            "year": 1986,
+            "score": 8.4,
+            "director": "James Cameron ",
+            "actor1": "Sigourney Weaver",
+            "actor2": "Michael Biehn",
+            "link": "/title/tt0090605/",
+            "img": "https://m.media-amazon.com/images/M/MV5BN2ZiMmQ0YWItN2IwZS00Y2NhLWE0NzQtNGNiOGFjN2U4MWNmXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 71
+        },
+        {
+            "id": "High and Low",
+            "year": 1963,
+            "score": 8.4,
+            "director": "Akira Kurosawa ",
+            "actor1": "Toshirō Mifune",
+            "actor2": "Yutaka Sada",
+            "link": "/title/tt0057565/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 72
+        },
+        {
+            "id": "12th Fail",
+            "year": 2023,
+            "score": 8.7,
+            "director": "Vidhu Vinod Chopra ",
+            "actor1": "Vikrant Massey",
+            "actor2": "Harish Khanna",
+            "link": "/title/tt23849204/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 73
+        },
+        {
+            "id": "Avengers: Endgame",
+            "year": 2019,
+            "score": 8.4,
+            "director": "Anthony Russo ",
+            "actor1": "Robert Downey Jr.",
+            "actor2": "Chris Evans",
+            "link": "/title/tt4154796/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 74
+        },
+        {
+            "id": "Good Will Hunting",
+            "year": 1997,
+            "score": 8.4,
+            "director": "Gus Van Sant ",
+            "actor1": "Robin Williams",
+            "actor2": "Matt Damon",
+            "link": "/title/tt0119217/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 75
+        },
+        {
+            "id": "Coco",
+            "year": 2017,
+            "score": 8.4,
+            "director": "Lee Unkrich ",
+            "actor1": "Anthony Gonzalez",
+            "actor2": "Gael García Bernal",
+            "link": "/title/tt2380307/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 76
+        },
+        {
+            "id": "Toy Story",
+            "year": 1995,
+            "score": 8.3,
+            "director": "John Lasseter ",
+            "actor1": "Tom Hanks",
+            "actor2": "Tim Allen",
+            "link": "/title/tt0114709/",
+            "img": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 77
+        },
+        {
+            "id": "The Dark Knight Rises",
+            "year": 2012,
+            "score": 8.4,
+            "director": "Christopher Nolan ",
+            "actor1": "Christian Bale",
+            "actor2": "Tom Hardy",
+            "link": "/title/tt1345836/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 78
+        },
+        {
+            "id": "Amadeus",
+            "year": 1984,
+            "score": 8.4,
+            "director": "Miloš Forman ",
+            "actor1": "F. Murray Abraham",
+            "actor2": "Tom Hulce",
+            "link": "/title/tt0086879/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 79
+        },
+        {
+            "id": "Your Name.",
+            "year": 2016,
+            "score": 8.4,
+            "director": "Makoto Shinkai ",
+            "actor1": "Ryûnosuke Kamiki",
+            "actor2": "Mone Kamishiraishi",
+            "link": "/title/tt5311514/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 80
+        },
+        {
+            "id": "3 Idiots",
+            "year": 2009,
+            "score": 8.4,
+            "director": "Rajkumar Hirani ",
+            "actor1": "Aamir Khan",
+            "actor2": "Madhavan",
+            "link": "/title/tt1187043/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 81
+        },
+        {
+            "id": "Das Boot",
+            "year": 1981,
+            "score": 8.3,
+            "director": "Wolfgang Petersen ",
+            "actor1": "Jürgen Prochnow",
+            "actor2": "Herbert Grönemeyer",
+            "link": "/title/tt0082096/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNGU0MWZlMTUtM2Y3Ny00NGNmLWE5NmEtN2YxOWQzMGM3ZWYzXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 82
+        },
+        {
+            "id": "Braveheart",
+            "year": 1995,
+            "score": 8.3,
+            "director": "Mel Gibson ",
+            "actor1": "Mel Gibson",
+            "actor2": "Sophie Marceau",
+            "link": "/title/tt0112573/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 83
+        },
+        {
+            "id": "Princess Mononoke",
+            "year": 1997,
+            "score": 8.3,
+            "director": "Hayao Miyazaki ",
+            "actor1": "Yôji Matsuda",
+            "actor2": "Yuriko Ishida",
+            "link": "/title/tt0119698/",
+            "img": "https://m.media-amazon.com/images/M/MV5BZTcyN2Y0MDYtMGI1NC00MWQ1LWFhZGMtN2U4NTcxZGYyNjljXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 84
+        },
+        {
+            "id": "Oldboy",
+            "year": 2003,
+            "score": 8.3,
+            "director": "Park Chan-wook ",
+            "actor1": "Choi Min-sik",
+            "actor2": "Yoo Ji-tae",
+            "link": "/title/tt0364569/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 85
+        },
+        {
+            "id": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "year": 1964,
+            "score": 8.3,
+            "director": "Stanley Kubrick ",
+            "actor1": "Peter Sellers",
+            "actor2": "George C. Scott",
+            "link": "/title/tt0057012/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjFjYzBlOTktMTI2OS00ZWVhLTgxMDUtNzAwODY2NmI3YTAzXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 86
+        },
+        {
+            "id": "American Beauty",
+            "year": 1999,
+            "score": 8.3,
+            "director": "Sam Mendes ",
+            "actor1": "Kevin Spacey",
+            "actor2": "Annette Bening",
+            "link": "/title/tt0169547/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMDI1MDE0OTMtMmI2MS00Yjc2LTg2MTItMWExYTg5NzA1OGUzXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 87
+        },
+        {
+            "id": "Capernaum",
+            "year": 2018,
+            "score": 8.4,
+            "director": "Nadine Labaki ",
+            "actor1": "Zain Al Rafeea",
+            "actor2": "Yordanos Shifera",
+            "link": "/title/tt8267604/",
+            "img": "https://m.media-amazon.com/images/M/MV5BYzEyMzQ1OTktZTljZi00OWQzLWE2ZmUtZjQyNzBjYjE1NTc0XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 88
+        },
+        {
+            "id": "Singin' in the Rain",
+            "year": 1952,
+            "score": 8.3,
+            "director": "Stanley Donen ",
+            "actor1": "Gene Kelly",
+            "actor2": "Donald O'Connor",
+            "link": "/title/tt0045152/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMGQzZDFjZWUtZDU4ZS00ZjM3LTgyYmItYjA3YmIwYzRkZWY3XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 89
+        },
+        {
+            "id": "Attack on Titan: The Last Attack",
+            "year": 2024,
+            "score": 8.9,
+            "director": "Ryota Aikei ",
+            "actor1": "Tomás Abalo",
+            "actor2": "Natsuki Hanae",
+            "link": "/title/tt33175825/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 90
+        },
+        {
+            "id": "Once Upon a Time in America",
+            "year": 1984,
+            "score": 8.3,
+            "director": "Sergio Leone ",
+            "actor1": "Robert De Niro",
+            "actor2": "James Woods",
+            "link": "/title/tt0087843/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 91
+        },
+        {
+            "id": "Joker",
+            "year": 2019,
+            "score": 8.3,
+            "director": "Todd Phillips ",
+            "actor1": "Joaquin Phoenix",
+            "actor2": "Robert De Niro",
+            "link": "/title/tt7286456/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 92
+        },
+        {
+            "id": "Toy Story 3",
+            "year": 2010,
+            "score": 8.3,
+            "director": "Lee Unkrich ",
+            "actor1": "Tom Hanks",
+            "actor2": "Tim Allen",
+            "link": "/title/tt0435761/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 93
+        },
+        {
+            "id": "Star Wars: Episode VI - Return of the Jedi",
+            "year": 1983,
+            "score": 8.3,
+            "director": "Richard Marquand ",
+            "actor1": "Mark Hamill",
+            "actor2": "Harrison Ford",
+            "link": "/title/tt0086190/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 94
+        },
+        {
+            "id": "Come and See",
+            "year": 1985,
+            "score": 8.3,
+            "director": "Elem Klimov ",
+            "actor1": "Aleksey Kravchenko",
+            "actor2": "Olga Mironova",
+            "link": "/title/tt0091251/",
+            "img": "https://m.media-amazon.com/images/M/MV5BNDlkZmVkZDAtZGFmMS00OWIzLWJkY2YtNWE5NjNhNjhiZGE3XkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 95
+        },
+        {
+            "id": "Requiem for a Dream",
+            "year": 2000,
+            "score": 8.3,
+            "director": "Darren Aronofsky ",
+            "actor1": "Ellen Burstyn",
+            "actor2": "Jared Leto",
+            "link": "/title/tt0180093/",
+            "img": "https://m.media-amazon.com/images/M/MV5BN2ZlMjIzZjctYzA2My00ZWYyLWI4ZjctMGI2NWYyNzFiZjAwXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 96
+        },
+        {
+            "id": "Incendies",
+            "year": 2010,
+            "score": 8.3,
+            "director": "Denis Villeneuve ",
+            "actor1": "Lubna Azabal",
+            "actor2": "Mélissa Désormeaux-Poulin",
+            "link": "/title/tt1255953/",
+            "img": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 97
+        },
+        {
+            "id": "Ikiru",
+            "year": 1952,
+            "score": 8.3,
+            "director": "Akira Kurosawa ",
+            "actor1": "Takashi Shimura",
+            "actor2": "Nobuo Kaneko",
+            "link": "/title/tt0044741/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMmZiNzExNmUtODU5YS00MDE1LWI0YTItMzVmNjM1ZTQ5NGVhXkEyXkFqcGc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 98
+        },
+        {
+            "id": "The Hunt",
+            "year": 2012,
+            "score": 8.3,
+            "director": "Thomas Vinterberg ",
+            "actor1": "Mads Mikkelsen",
+            "actor2": "Thomas Bo Larsen",
+            "link": "/title/tt2106476/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 99
+        },
+        {
+            "id": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "score": 8.3,
+            "director": "Michel Gondry ",
+            "actor1": "Jim Carrey",
+            "actor2": "Kate Winslet",
+            "link": "/title/tt0338013/",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "group": "Movie",
+            "rank": 100
+        },
+        {
+            "id": "Frank Darabont ",
+            "group": "Director"
+        },
+        {
+            "id": "Francis Ford Coppola ",
+            "group": "Director"
+        },
+        {
+            "id": "Christopher Nolan ",
+            "group": "Director"
+        },
+        {
+            "id": "Peter Jackson ",
+            "group": "Director"
+        },
+        {
+            "id": "Sidney Lumet ",
+            "group": "Director"
+        },
+        {
+            "id": "Steven Spielberg ",
+            "group": "Director"
+        },
+        {
+            "id": "Quentin Tarantino ",
+            "group": "Director"
+        },
+        {
+            "id": "Sergio Leone ",
+            "group": "Director"
+        },
+        {
+            "id": "Robert Zemeckis ",
+            "group": "Director"
+        },
+        {
+            "id": "David Fincher ",
+            "group": "Director"
+        },
+        {
+            "id": "Irvin Kershner ",
+            "group": "Director"
+        },
+        {
+            "id": "Lana Wachowski ",
+            "group": "Director"
+        },
+        {
+            "id": "Martin Scorsese ",
+            "group": "Director"
+        },
+        {
+            "id": "Miloš Forman ",
+            "group": "Director"
+        },
+        {
+            "id": "Frank Capra ",
+            "group": "Director"
+        },
+        {
+            "id": "Jonathan Demme ",
+            "group": "Director"
+        },
+        {
+            "id": "Akira Kurosawa ",
+            "group": "Director"
+        },
+        {
+            "id": "Fernando Meirelles ",
+            "group": "Director"
+        },
+        {
+            "id": "Roberto Benigni ",
+            "group": "Director"
+        },
+        {
+            "id": "James Cameron ",
+            "group": "Director"
+        },
+        {
+            "id": "George Lucas ",
+            "group": "Director"
+        },
+        {
+            "id": "Hayao Miyazaki ",
+            "group": "Director"
+        },
+        {
+            "id": "Ridley Scott ",
+            "group": "Director"
+        },
+        {
+            "id": "Roman Polanski ",
+            "group": "Director"
+        },
+        {
+            "id": "Bong Joon Ho ",
+            "group": "Director"
+        },
+        {
+            "id": "Isao Takahata ",
+            "group": "Director"
+        },
+        {
+            "id": "Masaki Kobayashi ",
+            "group": "Director"
+        },
+        {
+            "id": "Roger Allers ",
+            "group": "Director"
+        },
+        {
+            "id": "Alfred Hitchcock ",
+            "group": "Director"
+        },
+        {
+            "id": "Damien Chazelle ",
+            "group": "Director"
+        },
+        {
+            "id": "Tony Kaye ",
+            "group": "Director"
+        },
+        {
+            "id": "Joaquim Dos Santos ",
+            "group": "Director"
+        },
+        {
+            "id": "Giuseppe Tornatore ",
+            "group": "Director"
+        },
+        {
+            "id": "Luc Besson ",
+            "group": "Director"
+        },
+        {
+            "id": "Michael Curtiz ",
+            "group": "Director"
+        },
+        {
+            "id": "Olivier Nakache ",
+            "group": "Director"
+        },
+        {
+            "id": "Bryan Singer ",
+            "group": "Director"
+        },
+        {
+            "id": "Charles Chaplin ",
+            "group": "Director"
+        },
+        {
+            "id": "Andrew Stanton ",
+            "group": "Director"
+        },
+        {
+            "id": "Anthony Russo ",
+            "group": "Director"
+        },
+        {
+            "id": "Denis Villeneuve ",
+            "group": "Director"
+        },
+        {
+            "id": "Bob Persichetti ",
+            "group": "Director"
+        },
+        {
+            "id": "Florian Henckel von Donnersmarck ",
+            "group": "Director"
+        },
+        {
+            "id": "Billy Wilder ",
+            "group": "Director"
+        },
+        {
+            "id": "Stanley Kubrick ",
+            "group": "Director"
+        },
+        {
+            "id": "Vidhu Vinod Chopra ",
+            "group": "Director"
+        },
+        {
+            "id": "Gus Van Sant ",
+            "group": "Director"
+        },
+        {
+            "id": "Lee Unkrich ",
+            "group": "Director"
+        },
+        {
+            "id": "John Lasseter ",
+            "group": "Director"
+        },
+        {
+            "id": "Makoto Shinkai ",
+            "group": "Director"
+        },
+        {
+            "id": "Rajkumar Hirani ",
+            "group": "Director"
+        },
+        {
+            "id": "Wolfgang Petersen ",
+            "group": "Director"
+        },
+        {
+            "id": "Mel Gibson ",
+            "group": "Director"
+        },
+        {
+            "id": "Park Chan-wook ",
+            "group": "Director"
+        },
+        {
+            "id": "Sam Mendes ",
+            "group": "Director"
+        },
+        {
+            "id": "Nadine Labaki ",
+            "group": "Director"
+        },
+        {
+            "id": "Stanley Donen ",
+            "group": "Director"
+        },
+        {
+            "id": "Ryota Aikei ",
+            "group": "Director"
+        },
+        {
+            "id": "Todd Phillips ",
+            "group": "Director"
+        },
+        {
+            "id": "Richard Marquand ",
+            "group": "Director"
+        },
+        {
+            "id": "Elem Klimov ",
+            "group": "Director"
+        },
+        {
+            "id": "Darren Aronofsky ",
+            "group": "Director"
+        },
+        {
+            "id": "Thomas Vinterberg ",
+            "group": "Director"
+        },
+        {
+            "id": "Michel Gondry ",
+            "group": "Director"
+        },
+        {
+            "id": "Tim Robbins",
+            "group": "Actor"
+        },
+        {
+            "id": "Morgan Freeman",
+            "group": "Actor"
+        },
+        {
+            "id": "Marlon Brando",
+            "group": "Actor"
+        },
+        {
+            "id": "Al Pacino",
+            "group": "Actor"
+        },
+        {
+            "id": "Christian Bale",
+            "group": "Actor"
+        },
+        {
+            "id": "Heath Ledger",
+            "group": "Actor"
+        },
+        {
+            "id": "Robert De Niro",
+            "group": "Actor"
+        },
+        {
+            "id": "Elijah Wood",
+            "group": "Actor"
+        },
+        {
+            "id": "Viggo Mortensen",
+            "group": "Actor"
+        },
+        {
+            "id": "Henry Fonda",
+            "group": "Actor"
+        },
+        {
+            "id": "Lee J. Cobb",
+            "group": "Actor"
+        },
+        {
+            "id": "Liam Neeson",
+            "group": "Actor"
+        },
+        {
+            "id": "Ralph Fiennes",
+            "group": "Actor"
+        },
+        {
+            "id": "Ian McKellen",
+            "group": "Actor"
+        },
+        {
+            "id": "John Travolta",
+            "group": "Actor"
+        },
+        {
+            "id": "Uma Thurman",
+            "group": "Actor"
+        },
+        {
+            "id": "Clint Eastwood",
+            "group": "Actor"
+        },
+        {
+            "id": "Eli Wallach",
+            "group": "Actor"
+        },
+        {
+            "id": "Tom Hanks",
+            "group": "Actor"
+        },
+        {
+            "id": "Robin Wright",
+            "group": "Actor"
+        },
+        {
+            "id": "Leonardo DiCaprio",
+            "group": "Actor"
+        },
+        {
+            "id": "Joseph Gordon-Levitt",
+            "group": "Actor"
+        },
+        {
+            "id": "Brad Pitt",
+            "group": "Actor"
+        },
+        {
+            "id": "Edward Norton",
+            "group": "Actor"
+        },
+        {
+            "id": "Mark Hamill",
+            "group": "Actor"
+        },
+        {
+            "id": "Harrison Ford",
+            "group": "Actor"
+        },
+        {
+            "id": "Keanu Reeves",
+            "group": "Actor"
+        },
+        {
+            "id": "Laurence Fishburne",
+            "group": "Actor"
+        },
+        {
+            "id": "Matthew McConaughey",
+            "group": "Actor"
+        },
+        {
+            "id": "Anne Hathaway",
+            "group": "Actor"
+        },
+        {
+            "id": "Ray Liotta",
+            "group": "Actor"
+        },
+        {
+            "id": "Jack Nicholson",
+            "group": "Actor"
+        },
+        {
+            "id": "Louise Fletcher",
+            "group": "Actor"
+        },
+        {
+            "id": "James Stewart",
+            "group": "Actor"
+        },
+        {
+            "id": "Donna Reed",
+            "group": "Actor"
+        },
+        {
+            "id": "Jodie Foster",
+            "group": "Actor"
+        },
+        {
+            "id": "Anthony Hopkins",
+            "group": "Actor"
+        },
+        {
+            "id": "Matt Damon",
+            "group": "Actor"
+        },
+        {
+            "id": "Toshirō Mifune",
+            "group": "Actor"
+        },
+        {
+            "id": "Takashi Shimura",
+            "group": "Actor"
+        },
+        {
+            "id": "Michael Clarke Duncan",
+            "group": "Actor"
+        },
+        {
+            "id": "Alexandre Rodrigues",
+            "group": "Actor"
+        },
+        {
+            "id": "Leandro Firmino",
+            "group": "Actor"
+        },
+        {
+            "id": "Roberto Benigni",
+            "group": "Actor"
+        },
+        {
+            "id": "Nicoletta Braschi",
+            "group": "Actor"
+        },
+        {
+            "id": "Arnold Schwarzenegger",
+            "group": "Actor"
+        },
+        {
+            "id": "Linda Hamilton",
+            "group": "Actor"
+        },
+        {
+            "id": "Michael J. Fox",
+            "group": "Actor"
+        },
+        {
+            "id": "Christopher Lloyd",
+            "group": "Actor"
+        },
+        {
+            "id": "Miyu Irino",
+            "group": "Actor"
+        },
+        {
+            "id": "Rumi Hiiragi",
+            "group": "Actor"
+        },
+        {
+            "id": "Russell Crowe",
+            "group": "Actor"
+        },
+        {
+            "id": "Joaquin Phoenix",
+            "group": "Actor"
+        },
+        {
+            "id": "Adrien Brody",
+            "group": "Actor"
+        },
+        {
+            "id": "Thomas Kretschmann",
+            "group": "Actor"
+        },
+        {
+            "id": "Vivica A. Fox",
+            "group": "Actor"
+        },
+        {
+            "id": "Ambrosia Kelley",
+            "group": "Actor"
+        },
+        {
+            "id": "Song Kang-ho",
+            "group": "Actor"
+        },
+        {
+            "id": "Lee Sun-kyun",
+            "group": "Actor"
+        },
+        {
+            "id": "Tsutomu Tatsumi",
+            "group": "Actor"
+        },
+        {
+            "id": "Ayano Shiraishi",
+            "group": "Actor"
+        },
+        {
+            "id": "Tatsuya Nakadai",
+            "group": "Actor"
+        },
+        {
+            "id": "Akira Ishihama",
+            "group": "Actor"
+        },
+        {
+            "id": "Matthew Broderick",
+            "group": "Actor"
+        },
+        {
+            "id": "Jeremy Irons",
+            "group": "Actor"
+        },
+        {
+            "id": "Anthony Perkins",
+            "group": "Actor"
+        },
+        {
+            "id": "Janet Leigh",
+            "group": "Actor"
+        },
+        {
+            "id": "Miles Teller",
+            "group": "Actor"
+        },
+        {
+            "id": "J.K. Simmons",
+            "group": "Actor"
+        },
+        {
+            "id": "Hugh Jackman",
+            "group": "Actor"
+        },
+        {
+            "id": "Edward Furlong",
+            "group": "Actor"
+        },
+        {
+            "id": "Shameik Moore",
+            "group": "Actor"
+        },
+        {
+            "id": "Hailee Steinfeld",
+            "group": "Actor"
+        },
+        {
+            "id": "Philippe Noiret",
+            "group": "Actor"
+        },
+        {
+            "id": "Enzo Cannavale",
+            "group": "Actor"
+        },
+        {
+            "id": "Jean Reno",
+            "group": "Actor"
+        },
+        {
+            "id": "Gary Oldman",
+            "group": "Actor"
+        },
+        {
+            "id": "Humphrey Bogart",
+            "group": "Actor"
+        },
+        {
+            "id": "Ingrid Bergman",
+            "group": "Actor"
+        },
+        {
+            "id": "François Cluzet",
+            "group": "Actor"
+        },
+        {
+            "id": "Omar Sy",
+            "group": "Actor"
+        },
+        {
+            "id": "Kevin Spacey",
+            "group": "Actor"
+        },
+        {
+            "id": "Gabriel Byrne",
+            "group": "Actor"
+        },
+        {
+            "id": "Jamie Foxx",
+            "group": "Actor"
+        },
+        {
+            "id": "Christoph Waltz",
+            "group": "Actor"
+        },
+        {
+            "id": "Sigourney Weaver",
+            "group": "Actor"
+        },
+        {
+            "id": "Tom Skerritt",
+            "group": "Actor"
+        },
+        {
+            "id": "Grace Kelly",
+            "group": "Actor"
+        },
+        {
+            "id": "Charles Chaplin",
+            "group": "Actor"
+        },
+        {
+            "id": "Paulette Goddard",
+            "group": "Actor"
+        },
+        {
+            "id": "Charles Bronson",
+            "group": "Actor"
+        },
+        {
+            "id": "Ben Burtt",
+            "group": "Actor"
+        },
+        {
+            "id": "Elissa Knight",
+            "group": "Actor"
+        },
+        {
+            "id": "Virginia Cherrill",
+            "group": "Actor"
+        },
+        {
+            "id": "Martin Sheen",
+            "group": "Actor"
+        },
+        {
+            "id": "Guy Pearce",
+            "group": "Actor"
+        },
+        {
+            "id": "Carrie-Anne Moss",
+            "group": "Actor"
+        },
+        {
+            "id": "Robert Downey Jr.",
+            "group": "Actor"
+        },
+        {
+            "id": "Chris Hemsworth",
+            "group": "Actor"
+        },
+        {
+            "id": "Timothée Chalamet",
+            "group": "Actor"
+        },
+        {
+            "id": "Zendaya",
+            "group": "Actor"
+        },
+        {
+            "id": "Karen Allen",
+            "group": "Actor"
+        },
+        {
+            "id": "Jake Johnson",
+            "group": "Actor"
+        },
+        {
+            "id": "Tom Holland",
+            "group": "Actor"
+        },
+        {
+            "id": "Ulrich Mühe",
+            "group": "Actor"
+        },
+        {
+            "id": "Martina Gedeck",
+            "group": "Actor"
+        },
+        {
+            "id": "William Holden",
+            "group": "Actor"
+        },
+        {
+            "id": "Gloria Swanson",
+            "group": "Actor"
+        },
+        {
+            "id": "Tyrone Power",
+            "group": "Actor"
+        },
+        {
+            "id": "Marlene Dietrich",
+            "group": "Actor"
+        },
+        {
+            "id": "Kirk Douglas",
+            "group": "Actor"
+        },
+        {
+            "id": "Ralph Meeker",
+            "group": "Actor"
+        },
+        {
+            "id": "Diane Kruger",
+            "group": "Actor"
+        },
+        {
+            "id": "Shelley Duvall",
+            "group": "Actor"
+        },
+        {
+            "id": "Michael Biehn",
+            "group": "Actor"
+        },
+        {
+            "id": "Yutaka Sada",
+            "group": "Actor"
+        },
+        {
+            "id": "Vikrant Massey",
+            "group": "Actor"
+        },
+        {
+            "id": "Harish Khanna",
+            "group": "Actor"
+        },
+        {
+            "id": "Chris Evans",
+            "group": "Actor"
+        },
+        {
+            "id": "Robin Williams",
+            "group": "Actor"
+        },
+        {
+            "id": "Anthony Gonzalez",
+            "group": "Actor"
+        },
+        {
+            "id": "Gael García Bernal",
+            "group": "Actor"
+        },
+        {
+            "id": "Tim Allen",
+            "group": "Actor"
+        },
+        {
+            "id": "Tom Hardy",
+            "group": "Actor"
+        },
+        {
+            "id": "F. Murray Abraham",
+            "group": "Actor"
+        },
+        {
+            "id": "Tom Hulce",
+            "group": "Actor"
+        },
+        {
+            "id": "Ryûnosuke Kamiki",
+            "group": "Actor"
+        },
+        {
+            "id": "Mone Kamishiraishi",
+            "group": "Actor"
+        },
+        {
+            "id": "Aamir Khan",
+            "group": "Actor"
+        },
+        {
+            "id": "Madhavan",
+            "group": "Actor"
+        },
+        {
+            "id": "Jürgen Prochnow",
+            "group": "Actor"
+        },
+        {
+            "id": "Herbert Grönemeyer",
+            "group": "Actor"
+        },
+        {
+            "id": "Mel Gibson",
+            "group": "Actor"
+        },
+        {
+            "id": "Sophie Marceau",
+            "group": "Actor"
+        },
+        {
+            "id": "Yôji Matsuda",
+            "group": "Actor"
+        },
+        {
+            "id": "Yuriko Ishida",
+            "group": "Actor"
+        },
+        {
+            "id": "Choi Min-sik",
+            "group": "Actor"
+        },
+        {
+            "id": "Yoo Ji-tae",
+            "group": "Actor"
+        },
+        {
+            "id": "Peter Sellers",
+            "group": "Actor"
+        },
+        {
+            "id": "George C. Scott",
+            "group": "Actor"
+        },
+        {
+            "id": "Annette Bening",
+            "group": "Actor"
+        },
+        {
+            "id": "Zain Al Rafeea",
+            "group": "Actor"
+        },
+        {
+            "id": "Yordanos Shifera",
+            "group": "Actor"
+        },
+        {
+            "id": "Gene Kelly",
+            "group": "Actor"
+        },
+        {
+            "id": "Donald O'Connor",
+            "group": "Actor"
+        },
+        {
+            "id": "Tomás Abalo",
+            "group": "Actor"
+        },
+        {
+            "id": "Natsuki Hanae",
+            "group": "Actor"
+        },
+        {
+            "id": "James Woods",
+            "group": "Actor"
+        },
+        {
+            "id": "Aleksey Kravchenko",
+            "group": "Actor"
+        },
+        {
+            "id": "Olga Mironova",
+            "group": "Actor"
+        },
+        {
+            "id": "Ellen Burstyn",
+            "group": "Actor"
+        },
+        {
+            "id": "Jared Leto",
+            "group": "Actor"
+        },
+        {
+            "id": "Lubna Azabal",
+            "group": "Actor"
+        },
+        {
+            "id": "Mélissa Désormeaux-Poulin",
+            "group": "Actor"
+        },
+        {
+            "id": "Nobuo Kaneko",
+            "group": "Actor"
+        },
+        {
+            "id": "Mads Mikkelsen",
+            "group": "Actor"
+        },
+        {
+            "id": "Thomas Bo Larsen",
+            "group": "Actor"
+        },
+        {
+            "id": "Jim Carrey",
+            "group": "Actor"
+        },
+        {
+            "id": "Kate Winslet",
+            "group": "Actor"
+        }
+    ],
+    "links": [
+        {
+            "source": "The Shawshank Redemption",
+            "target": "Frank Darabont "
+        },
+        {
+            "source": "The Godfather",
+            "target": "Francis Ford Coppola "
+        },
+        {
+            "source": "The Dark Knight",
+            "target": "Christopher Nolan "
+        },
+        {
+            "source": "The Godfather Part II",
+            "target": "Francis Ford Coppola "
+        },
+        {
+            "source": "The Lord of the Rings: The Return of the King",
+            "target": "Peter Jackson "
+        },
+        {
+            "source": "12 Angry Men",
+            "target": "Sidney Lumet "
+        },
+        {
+            "source": "Schindler's List",
+            "target": "Steven Spielberg "
+        },
+        {
+            "source": "The Lord of the Rings: The Fellowship of the Ring",
+            "target": "Peter Jackson "
+        },
+        {
+            "source": "Pulp Fiction",
+            "target": "Quentin Tarantino "
+        },
+        {
+            "source": "The Lord of the Rings: The Two Towers",
+            "target": "Peter Jackson "
+        },
+        {
+            "source": "The Good, the Bad and the Ugly",
+            "target": "Sergio Leone "
+        },
+        {
+            "source": "Forrest Gump",
+            "target": "Robert Zemeckis "
+        },
+        {
+            "source": "Inception",
+            "target": "Christopher Nolan "
+        },
+        {
+            "source": "Fight Club",
+            "target": "David Fincher "
+        },
+        {
+            "source": "Star Wars: Episode V - The Empire Strikes Back",
+            "target": "Irvin Kershner "
+        },
+        {
+            "source": "The Matrix",
+            "target": "Lana Wachowski "
+        },
+        {
+            "source": "Interstellar",
+            "target": "Christopher Nolan "
+        },
+        {
+            "source": "GoodFellas",
+            "target": "Martin Scorsese "
+        },
+        {
+            "source": "One Flew Over the Cuckoo's Nest",
+            "target": "Miloš Forman "
+        },
+        {
+            "source": "Seven",
+            "target": "David Fincher "
+        },
+        {
+            "source": "It's a Wonderful Life",
+            "target": "Frank Capra "
+        },
+        {
+            "source": "The Silence of the Lambs",
+            "target": "Jonathan Demme "
+        },
+        {
+            "source": "Saving Private Ryan",
+            "target": "Steven Spielberg "
+        },
+        {
+            "source": "Seven Samurai",
+            "target": "Akira Kurosawa "
+        },
+        {
+            "source": "The Green Mile",
+            "target": "Frank Darabont "
+        },
+        {
+            "source": "City of God",
+            "target": "Fernando Meirelles "
+        },
+        {
+            "source": "Life Is Beautiful",
+            "target": "Roberto Benigni "
+        },
+        {
+            "source": "Terminator 2: Judgment Day",
+            "target": "James Cameron "
+        },
+        {
+            "source": "Back to the Future",
+            "target": "Robert Zemeckis "
+        },
+        {
+            "source": "Star Wars: Episode IV - A New Hope",
+            "target": "George Lucas "
+        },
+        {
+            "source": "Spirited Away",
+            "target": "Hayao Miyazaki "
+        },
+        {
+            "source": "Gladiator",
+            "target": "Ridley Scott "
+        },
+        {
+            "source": "The Pianist",
+            "target": "Roman Polanski "
+        },
+        {
+            "source": "Kill Bill: The Whole Bloody Affair",
+            "target": "Quentin Tarantino "
+        },
+        {
+            "source": "Parasite",
+            "target": "Bong Joon Ho "
+        },
+        {
+            "source": "Grave of the Fireflies",
+            "target": "Isao Takahata "
+        },
+        {
+            "source": "Harakiri",
+            "target": "Masaki Kobayashi "
+        },
+        {
+            "source": "The Lion King",
+            "target": "Roger Allers "
+        },
+        {
+            "source": "Psycho",
+            "target": "Alfred Hitchcock "
+        },
+        {
+            "source": "The Departed",
+            "target": "Martin Scorsese "
+        },
+        {
+            "source": "Whiplash",
+            "target": "Damien Chazelle "
+        },
+        {
+            "source": "The Prestige",
+            "target": "Christopher Nolan "
+        },
+        {
+            "source": "American History X",
+            "target": "Tony Kaye "
+        },
+        {
+            "source": "Spider-Man: Across the Spider-Verse",
+            "target": "Joaquim Dos Santos "
+        },
+        {
+            "source": "Cinema Paradiso",
+            "target": "Giuseppe Tornatore "
+        },
+        {
+            "source": "Léon: The Professional",
+            "target": "Luc Besson "
+        },
+        {
+            "source": "Casablanca",
+            "target": "Michael Curtiz "
+        },
+        {
+            "source": "The Intouchables",
+            "target": "Olivier Nakache "
+        },
+        {
+            "source": "The Usual Suspects",
+            "target": "Bryan Singer "
+        },
+        {
+            "source": "Django Unchained",
+            "target": "Quentin Tarantino "
+        },
+        {
+            "source": "Alien",
+            "target": "Ridley Scott "
+        },
+        {
+            "source": "Rear Window",
+            "target": "Alfred Hitchcock "
+        },
+        {
+            "source": "Modern Times",
+            "target": "Charles Chaplin "
+        },
+        {
+            "source": "Once Upon a Time in the West",
+            "target": "Sergio Leone "
+        },
+        {
+            "source": "WALL·E",
+            "target": "Andrew Stanton "
+        },
+        {
+            "source": "City Lights",
+            "target": "Charles Chaplin "
+        },
+        {
+            "source": "Apocalypse Now",
+            "target": "Francis Ford Coppola "
+        },
+        {
+            "source": "Memento",
+            "target": "Christopher Nolan "
+        },
+        {
+            "source": "Avengers: Infinity War",
+            "target": "Anthony Russo "
+        },
+        {
+            "source": "Dune: Part Two",
+            "target": "Denis Villeneuve "
+        },
+        {
+            "source": "Raiders of the Lost Ark",
+            "target": "Steven Spielberg "
+        },
+        {
+            "source": "Spider-Man: Into the Spider-Verse",
+            "target": "Bob Persichetti "
+        },
+        {
+            "source": "The Odyssey",
+            "target": "Christopher Nolan "
+        },
+        {
+            "source": "The Lives of Others",
+            "target": "Florian Henckel von Donnersmarck "
+        },
+        {
+            "source": "Sunset Boulevard",
+            "target": "Billy Wilder "
+        },
+        {
+            "source": "Witness for the Prosecution",
+            "target": "Billy Wilder "
+        },
+        {
+            "source": "Paths of Glory",
+            "target": "Stanley Kubrick "
+        },
+        {
+            "source": "Inglourious Basterds",
+            "target": "Quentin Tarantino "
+        },
+        {
+            "source": "The Shining",
+            "target": "Stanley Kubrick "
+        },
+        {
+            "source": "The Great Dictator",
+            "target": "Charles Chaplin "
+        },
+        {
+            "source": "Aliens",
+            "target": "James Cameron "
+        },
+        {
+            "source": "High and Low",
+            "target": "Akira Kurosawa "
+        },
+        {
+            "source": "12th Fail",
+            "target": "Vidhu Vinod Chopra "
+        },
+        {
+            "source": "Avengers: Endgame",
+            "target": "Anthony Russo "
+        },
+        {
+            "source": "Good Will Hunting",
+            "target": "Gus Van Sant "
+        },
+        {
+            "source": "Coco",
+            "target": "Lee Unkrich "
+        },
+        {
+            "source": "Toy Story",
+            "target": "John Lasseter "
+        },
+        {
+            "source": "The Dark Knight Rises",
+            "target": "Christopher Nolan "
+        },
+        {
+            "source": "Amadeus",
+            "target": "Miloš Forman "
+        },
+        {
+            "source": "Your Name.",
+            "target": "Makoto Shinkai "
+        },
+        {
+            "source": "3 Idiots",
+            "target": "Rajkumar Hirani "
+        },
+        {
+            "source": "Das Boot",
+            "target": "Wolfgang Petersen "
+        },
+        {
+            "source": "Braveheart",
+            "target": "Mel Gibson "
+        },
+        {
+            "source": "Princess Mononoke",
+            "target": "Hayao Miyazaki "
+        },
+        {
+            "source": "Oldboy",
+            "target": "Park Chan-wook "
+        },
+        {
+            "source": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "target": "Stanley Kubrick "
+        },
+        {
+            "source": "American Beauty",
+            "target": "Sam Mendes "
+        },
+        {
+            "source": "Capernaum",
+            "target": "Nadine Labaki "
+        },
+        {
+            "source": "Singin' in the Rain",
+            "target": "Stanley Donen "
+        },
+        {
+            "source": "Attack on Titan: The Last Attack",
+            "target": "Ryota Aikei "
+        },
+        {
+            "source": "Once Upon a Time in America",
+            "target": "Sergio Leone "
+        },
+        {
+            "source": "Joker",
+            "target": "Todd Phillips "
+        },
+        {
+            "source": "Toy Story 3",
+            "target": "Lee Unkrich "
+        },
+        {
+            "source": "Star Wars: Episode VI - Return of the Jedi",
+            "target": "Richard Marquand "
+        },
+        {
+            "source": "Come and See",
+            "target": "Elem Klimov "
+        },
+        {
+            "source": "Requiem for a Dream",
+            "target": "Darren Aronofsky "
+        },
+        {
+            "source": "Incendies",
+            "target": "Denis Villeneuve "
+        },
+        {
+            "source": "Ikiru",
+            "target": "Akira Kurosawa "
+        },
+        {
+            "source": "The Hunt",
+            "target": "Thomas Vinterberg "
+        },
+        {
+            "source": "Eternal Sunshine of the Spotless Mind",
+            "target": "Michel Gondry "
+        },
+        {
+            "source": "The Shawshank Redemption",
+            "target": "Tim Robbins"
+        },
+        {
+            "source": "The Godfather",
+            "target": "Marlon Brando"
+        },
+        {
+            "source": "The Dark Knight",
+            "target": "Christian Bale"
+        },
+        {
+            "source": "The Godfather Part II",
+            "target": "Al Pacino"
+        },
+        {
+            "source": "The Lord of the Rings: The Return of the King",
+            "target": "Elijah Wood"
+        },
+        {
+            "source": "12 Angry Men",
+            "target": "Henry Fonda"
+        },
+        {
+            "source": "Schindler's List",
+            "target": "Liam Neeson"
+        },
+        {
+            "source": "The Lord of the Rings: The Fellowship of the Ring",
+            "target": "Elijah Wood"
+        },
+        {
+            "source": "Pulp Fiction",
+            "target": "John Travolta"
+        },
+        {
+            "source": "The Lord of the Rings: The Two Towers",
+            "target": "Elijah Wood"
+        },
+        {
+            "source": "The Good, the Bad and the Ugly",
+            "target": "Clint Eastwood"
+        },
+        {
+            "source": "Forrest Gump",
+            "target": "Tom Hanks"
+        },
+        {
+            "source": "Inception",
+            "target": "Leonardo DiCaprio"
+        },
+        {
+            "source": "Fight Club",
+            "target": "Brad Pitt"
+        },
+        {
+            "source": "Star Wars: Episode V - The Empire Strikes Back",
+            "target": "Mark Hamill"
+        },
+        {
+            "source": "The Matrix",
+            "target": "Keanu Reeves"
+        },
+        {
+            "source": "Interstellar",
+            "target": "Matthew McConaughey"
+        },
+        {
+            "source": "GoodFellas",
+            "target": "Robert De Niro"
+        },
+        {
+            "source": "One Flew Over the Cuckoo's Nest",
+            "target": "Jack Nicholson"
+        },
+        {
+            "source": "Seven",
+            "target": "Morgan Freeman"
+        },
+        {
+            "source": "It's a Wonderful Life",
+            "target": "James Stewart"
+        },
+        {
+            "source": "The Silence of the Lambs",
+            "target": "Jodie Foster"
+        },
+        {
+            "source": "Saving Private Ryan",
+            "target": "Tom Hanks"
+        },
+        {
+            "source": "Seven Samurai",
+            "target": "Toshirō Mifune"
+        },
+        {
+            "source": "The Green Mile",
+            "target": "Tom Hanks"
+        },
+        {
+            "source": "City of God",
+            "target": "Alexandre Rodrigues"
+        },
+        {
+            "source": "Life Is Beautiful",
+            "target": "Roberto Benigni"
+        },
+        {
+            "source": "Terminator 2: Judgment Day",
+            "target": "Arnold Schwarzenegger"
+        },
+        {
+            "source": "Back to the Future",
+            "target": "Michael J. Fox"
+        },
+        {
+            "source": "Star Wars: Episode IV - A New Hope",
+            "target": "Mark Hamill"
+        },
+        {
+            "source": "Spirited Away",
+            "target": "Miyu Irino"
+        },
+        {
+            "source": "Gladiator",
+            "target": "Russell Crowe"
+        },
+        {
+            "source": "The Pianist",
+            "target": "Adrien Brody"
+        },
+        {
+            "source": "Kill Bill: The Whole Bloody Affair",
+            "target": "Vivica A. Fox"
+        },
+        {
+            "source": "Parasite",
+            "target": "Song Kang-ho"
+        },
+        {
+            "source": "Grave of the Fireflies",
+            "target": "Tsutomu Tatsumi"
+        },
+        {
+            "source": "Harakiri",
+            "target": "Tatsuya Nakadai"
+        },
+        {
+            "source": "The Lion King",
+            "target": "Matthew Broderick"
+        },
+        {
+            "source": "Psycho",
+            "target": "Anthony Perkins"
+        },
+        {
+            "source": "The Departed",
+            "target": "Leonardo DiCaprio"
+        },
+        {
+            "source": "Whiplash",
+            "target": "Miles Teller"
+        },
+        {
+            "source": "The Prestige",
+            "target": "Christian Bale"
+        },
+        {
+            "source": "American History X",
+            "target": "Edward Norton"
+        },
+        {
+            "source": "Spider-Man: Across the Spider-Verse",
+            "target": "Shameik Moore"
+        },
+        {
+            "source": "Cinema Paradiso",
+            "target": "Philippe Noiret"
+        },
+        {
+            "source": "Léon: The Professional",
+            "target": "Jean Reno"
+        },
+        {
+            "source": "Casablanca",
+            "target": "Humphrey Bogart"
+        },
+        {
+            "source": "The Intouchables",
+            "target": "François Cluzet"
+        },
+        {
+            "source": "The Usual Suspects",
+            "target": "Kevin Spacey"
+        },
+        {
+            "source": "Django Unchained",
+            "target": "Jamie Foxx"
+        },
+        {
+            "source": "Alien",
+            "target": "Sigourney Weaver"
+        },
+        {
+            "source": "Rear Window",
+            "target": "James Stewart"
+        },
+        {
+            "source": "Modern Times",
+            "target": "Charles Chaplin"
+        },
+        {
+            "source": "Once Upon a Time in the West",
+            "target": "Henry Fonda"
+        },
+        {
+            "source": "WALL·E",
+            "target": "Ben Burtt"
+        },
+        {
+            "source": "City Lights",
+            "target": "Charles Chaplin"
+        },
+        {
+            "source": "Apocalypse Now",
+            "target": "Martin Sheen"
+        },
+        {
+            "source": "Memento",
+            "target": "Guy Pearce"
+        },
+        {
+            "source": "Avengers: Infinity War",
+            "target": "Robert Downey Jr."
+        },
+        {
+            "source": "Dune: Part Two",
+            "target": "Timothée Chalamet"
+        },
+        {
+            "source": "Raiders of the Lost Ark",
+            "target": "Harrison Ford"
+        },
+        {
+            "source": "Spider-Man: Into the Spider-Verse",
+            "target": "Shameik Moore"
+        },
+        {
+            "source": "The Odyssey",
+            "target": "Matt Damon"
+        },
+        {
+            "source": "The Lives of Others",
+            "target": "Ulrich Mühe"
+        },
+        {
+            "source": "Sunset Boulevard",
+            "target": "William Holden"
+        },
+        {
+            "source": "Witness for the Prosecution",
+            "target": "Tyrone Power"
+        },
+        {
+            "source": "Paths of Glory",
+            "target": "Kirk Douglas"
+        },
+        {
+            "source": "Inglourious Basterds",
+            "target": "Brad Pitt"
+        },
+        {
+            "source": "The Shining",
+            "target": "Jack Nicholson"
+        },
+        {
+            "source": "The Great Dictator",
+            "target": "Charles Chaplin"
+        },
+        {
+            "source": "Aliens",
+            "target": "Sigourney Weaver"
+        },
+        {
+            "source": "High and Low",
+            "target": "Toshirō Mifune"
+        },
+        {
+            "source": "12th Fail",
+            "target": "Vikrant Massey"
+        },
+        {
+            "source": "Avengers: Endgame",
+            "target": "Robert Downey Jr."
+        },
+        {
+            "source": "Good Will Hunting",
+            "target": "Robin Williams"
+        },
+        {
+            "source": "Coco",
+            "target": "Anthony Gonzalez"
+        },
+        {
+            "source": "Toy Story",
+            "target": "Tom Hanks"
+        },
+        {
+            "source": "The Dark Knight Rises",
+            "target": "Christian Bale"
+        },
+        {
+            "source": "Amadeus",
+            "target": "F. Murray Abraham"
+        },
+        {
+            "source": "Your Name.",
+            "target": "Ryûnosuke Kamiki"
+        },
+        {
+            "source": "3 Idiots",
+            "target": "Aamir Khan"
+        },
+        {
+            "source": "Das Boot",
+            "target": "Jürgen Prochnow"
+        },
+        {
+            "source": "Braveheart",
+            "target": "Mel Gibson"
+        },
+        {
+            "source": "Princess Mononoke",
+            "target": "Yôji Matsuda"
+        },
+        {
+            "source": "Oldboy",
+            "target": "Choi Min-sik"
+        },
+        {
+            "source": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "target": "Peter Sellers"
+        },
+        {
+            "source": "American Beauty",
+            "target": "Kevin Spacey"
+        },
+        {
+            "source": "Capernaum",
+            "target": "Zain Al Rafeea"
+        },
+        {
+            "source": "Singin' in the Rain",
+            "target": "Gene Kelly"
+        },
+        {
+            "source": "Attack on Titan: The Last Attack",
+            "target": "Tomás Abalo"
+        },
+        {
+            "source": "Once Upon a Time in America",
+            "target": "Robert De Niro"
+        },
+        {
+            "source": "Joker",
+            "target": "Joaquin Phoenix"
+        },
+        {
+            "source": "Toy Story 3",
+            "target": "Tom Hanks"
+        },
+        {
+            "source": "Star Wars: Episode VI - Return of the Jedi",
+            "target": "Mark Hamill"
+        },
+        {
+            "source": "Come and See",
+            "target": "Aleksey Kravchenko"
+        },
+        {
+            "source": "Requiem for a Dream",
+            "target": "Ellen Burstyn"
+        },
+        {
+            "source": "Incendies",
+            "target": "Lubna Azabal"
+        },
+        {
+            "source": "Ikiru",
+            "target": "Takashi Shimura"
+        },
+        {
+            "source": "The Hunt",
+            "target": "Mads Mikkelsen"
+        },
+        {
+            "source": "Eternal Sunshine of the Spotless Mind",
+            "target": "Jim Carrey"
+        },
+        {
+            "source": "The Shawshank Redemption",
+            "target": "Morgan Freeman"
+        },
+        {
+            "source": "The Godfather",
+            "target": "Al Pacino"
+        },
+        {
+            "source": "The Dark Knight",
+            "target": "Heath Ledger"
+        },
+        {
+            "source": "The Godfather Part II",
+            "target": "Robert De Niro"
+        },
+        {
+            "source": "The Lord of the Rings: The Return of the King",
+            "target": "Viggo Mortensen"
+        },
+        {
+            "source": "12 Angry Men",
+            "target": "Lee J. Cobb"
+        },
+        {
+            "source": "Schindler's List",
+            "target": "Ralph Fiennes"
+        },
+        {
+            "source": "The Lord of the Rings: The Fellowship of the Ring",
+            "target": "Ian McKellen"
+        },
+        {
+            "source": "Pulp Fiction",
+            "target": "Uma Thurman"
+        },
+        {
+            "source": "The Lord of the Rings: The Two Towers",
+            "target": "Ian McKellen"
+        },
+        {
+            "source": "The Good, the Bad and the Ugly",
+            "target": "Eli Wallach"
+        },
+        {
+            "source": "Forrest Gump",
+            "target": "Robin Wright"
+        },
+        {
+            "source": "Inception",
+            "target": "Joseph Gordon-Levitt"
+        },
+        {
+            "source": "Fight Club",
+            "target": "Edward Norton"
+        },
+        {
+            "source": "Star Wars: Episode V - The Empire Strikes Back",
+            "target": "Harrison Ford"
+        },
+        {
+            "source": "The Matrix",
+            "target": "Laurence Fishburne"
+        },
+        {
+            "source": "Interstellar",
+            "target": "Anne Hathaway"
+        },
+        {
+            "source": "GoodFellas",
+            "target": "Ray Liotta"
+        },
+        {
+            "source": "One Flew Over the Cuckoo's Nest",
+            "target": "Louise Fletcher"
+        },
+        {
+            "source": "Seven",
+            "target": "Brad Pitt"
+        },
+        {
+            "source": "It's a Wonderful Life",
+            "target": "Donna Reed"
+        },
+        {
+            "source": "The Silence of the Lambs",
+            "target": "Anthony Hopkins"
+        },
+        {
+            "source": "Saving Private Ryan",
+            "target": "Matt Damon"
+        },
+        {
+            "source": "Seven Samurai",
+            "target": "Takashi Shimura"
+        },
+        {
+            "source": "The Green Mile",
+            "target": "Michael Clarke Duncan"
+        },
+        {
+            "source": "City of God",
+            "target": "Leandro Firmino"
+        },
+        {
+            "source": "Life Is Beautiful",
+            "target": "Nicoletta Braschi"
+        },
+        {
+            "source": "Terminator 2: Judgment Day",
+            "target": "Linda Hamilton"
+        },
+        {
+            "source": "Back to the Future",
+            "target": "Christopher Lloyd"
+        },
+        {
+            "source": "Star Wars: Episode IV - A New Hope",
+            "target": "Harrison Ford"
+        },
+        {
+            "source": "Spirited Away",
+            "target": "Rumi Hiiragi"
+        },
+        {
+            "source": "Gladiator",
+            "target": "Joaquin Phoenix"
+        },
+        {
+            "source": "The Pianist",
+            "target": "Thomas Kretschmann"
+        },
+        {
+            "source": "Kill Bill: The Whole Bloody Affair",
+            "target": "Ambrosia Kelley"
+        },
+        {
+            "source": "Parasite",
+            "target": "Lee Sun-kyun"
+        },
+        {
+            "source": "Grave of the Fireflies",
+            "target": "Ayano Shiraishi"
+        },
+        {
+            "source": "Harakiri",
+            "target": "Akira Ishihama"
+        },
+        {
+            "source": "The Lion King",
+            "target": "Jeremy Irons"
+        },
+        {
+            "source": "Psycho",
+            "target": "Janet Leigh"
+        },
+        {
+            "source": "The Departed",
+            "target": "Matt Damon"
+        },
+        {
+            "source": "Whiplash",
+            "target": "J.K. Simmons"
+        },
+        {
+            "source": "The Prestige",
+            "target": "Hugh Jackman"
+        },
+        {
+            "source": "American History X",
+            "target": "Edward Furlong"
+        },
+        {
+            "source": "Spider-Man: Across the Spider-Verse",
+            "target": "Hailee Steinfeld"
+        },
+        {
+            "source": "Cinema Paradiso",
+            "target": "Enzo Cannavale"
+        },
+        {
+            "source": "Léon: The Professional",
+            "target": "Gary Oldman"
+        },
+        {
+            "source": "Casablanca",
+            "target": "Ingrid Bergman"
+        },
+        {
+            "source": "The Intouchables",
+            "target": "Omar Sy"
+        },
+        {
+            "source": "The Usual Suspects",
+            "target": "Gabriel Byrne"
+        },
+        {
+            "source": "Django Unchained",
+            "target": "Christoph Waltz"
+        },
+        {
+            "source": "Alien",
+            "target": "Tom Skerritt"
+        },
+        {
+            "source": "Rear Window",
+            "target": "Grace Kelly"
+        },
+        {
+            "source": "Modern Times",
+            "target": "Paulette Goddard"
+        },
+        {
+            "source": "Once Upon a Time in the West",
+            "target": "Charles Bronson"
+        },
+        {
+            "source": "WALL·E",
+            "target": "Elissa Knight"
+        },
+        {
+            "source": "City Lights",
+            "target": "Virginia Cherrill"
+        },
+        {
+            "source": "Apocalypse Now",
+            "target": "Marlon Brando"
+        },
+        {
+            "source": "Memento",
+            "target": "Carrie-Anne Moss"
+        },
+        {
+            "source": "Avengers: Infinity War",
+            "target": "Chris Hemsworth"
+        },
+        {
+            "source": "Dune: Part Two",
+            "target": "Zendaya"
+        },
+        {
+            "source": "Raiders of the Lost Ark",
+            "target": "Karen Allen"
+        },
+        {
+            "source": "Spider-Man: Into the Spider-Verse",
+            "target": "Jake Johnson"
+        },
+        {
+            "source": "The Odyssey",
+            "target": "Tom Holland"
+        },
+        {
+            "source": "The Lives of Others",
+            "target": "Martina Gedeck"
+        },
+        {
+            "source": "Sunset Boulevard",
+            "target": "Gloria Swanson"
+        },
+        {
+            "source": "Witness for the Prosecution",
+            "target": "Marlene Dietrich"
+        },
+        {
+            "source": "Paths of Glory",
+            "target": "Ralph Meeker"
+        },
+        {
+            "source": "Inglourious Basterds",
+            "target": "Diane Kruger"
+        },
+        {
+            "source": "The Shining",
+            "target": "Shelley Duvall"
+        },
+        {
+            "source": "The Great Dictator",
+            "target": "Paulette Goddard"
+        },
+        {
+            "source": "Aliens",
+            "target": "Michael Biehn"
+        },
+        {
+            "source": "High and Low",
+            "target": "Yutaka Sada"
+        },
+        {
+            "source": "12th Fail",
+            "target": "Harish Khanna"
+        },
+        {
+            "source": "Avengers: Endgame",
+            "target": "Chris Evans"
+        },
+        {
+            "source": "Good Will Hunting",
+            "target": "Matt Damon"
+        },
+        {
+            "source": "Coco",
+            "target": "Gael García Bernal"
+        },
+        {
+            "source": "Toy Story",
+            "target": "Tim Allen"
+        },
+        {
+            "source": "The Dark Knight Rises",
+            "target": "Tom Hardy"
+        },
+        {
+            "source": "Amadeus",
+            "target": "Tom Hulce"
+        },
+        {
+            "source": "Your Name.",
+            "target": "Mone Kamishiraishi"
+        },
+        {
+            "source": "3 Idiots",
+            "target": "Madhavan"
+        },
+        {
+            "source": "Das Boot",
+            "target": "Herbert Grönemeyer"
+        },
+        {
+            "source": "Braveheart",
+            "target": "Sophie Marceau"
+        },
+        {
+            "source": "Princess Mononoke",
+            "target": "Yuriko Ishida"
+        },
+        {
+            "source": "Oldboy",
+            "target": "Yoo Ji-tae"
+        },
+        {
+            "source": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "target": "George C. Scott"
+        },
+        {
+            "source": "American Beauty",
+            "target": "Annette Bening"
+        },
+        {
+            "source": "Capernaum",
+            "target": "Yordanos Shifera"
+        },
+        {
+            "source": "Singin' in the Rain",
+            "target": "Donald O'Connor"
+        },
+        {
+            "source": "Attack on Titan: The Last Attack",
+            "target": "Natsuki Hanae"
+        },
+        {
+            "source": "Once Upon a Time in America",
+            "target": "James Woods"
+        },
+        {
+            "source": "Joker",
+            "target": "Robert De Niro"
+        },
+        {
+            "source": "Toy Story 3",
+            "target": "Tim Allen"
+        },
+        {
+            "source": "Star Wars: Episode VI - Return of the Jedi",
+            "target": "Harrison Ford"
+        },
+        {
+            "source": "Come and See",
+            "target": "Olga Mironova"
+        },
+        {
+            "source": "Requiem for a Dream",
+            "target": "Jared Leto"
+        },
+        {
+            "source": "Incendies",
+            "target": "Mélissa Désormeaux-Poulin"
+        },
+        {
+            "source": "Ikiru",
+            "target": "Nobuo Kaneko"
+        },
+        {
+            "source": "The Hunt",
+            "target": "Thomas Bo Larsen"
+        },
+        {
+            "source": "Eternal Sunshine of the Spotless Mind",
+            "target": "Kate Winslet"
+        }
+    ]
+}
