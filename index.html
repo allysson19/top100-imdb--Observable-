@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Top 100 IMDB: rede de filmes, diretores e atores</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<style>
+  :root {
+    --bg: #ffffff; --fg: #1d1d1f; --muted: #666a73; --link: #999999; --halo: #ffffff;
+    --movie: #e15759; --director: #4e79a7; --actor: #f28e2b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #16181d; --fg: #eceef2; --muted: #a0a5b0; --link: #6b7080; --halo: #16181d; }
+  }
+  html, body { margin: 0; background: var(--bg); color: var(--fg);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1040px; margin: 0 auto; padding: 24px 16px 40px; }
+  h1 { font-size: 1.5rem; margin: 0 0 6px; }
+  p { margin: 0 0 14px; color: var(--muted); line-height: 1.5; max-width: 70ch; }
+  #chart { width: 100%; }
+  svg { max-width: 100%; height: auto; display: block; }
+  .tip { position: fixed; pointer-events: none; background: var(--fg); color: var(--bg);
+    padding: 8px 10px; border-radius: 6px; font-size: 13px; line-height: 1.4;
+    max-width: 260px; opacity: 0; transition: opacity .1s; white-space: pre-line; }
+  .lbl { font-size: 10px; fill: var(--fg); paint-order: stroke; stroke: var(--halo);
+    stroke-width: 3px; text-anchor: middle; pointer-events: none; }
+  .leg text { fill: var(--fg); font-size: 12px; }
+  #erro { color: #c0392b; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Top 100 IMDB: filmes, diretores e atores</h1>
+  <p>Cor indica o tipo do nó. O tamanho indica a nota (filmes) ou o número de filmes (diretores e atores). Passe o mouse sobre um nó para ver os detalhes e destacar suas ligações. Arraste para reorganizar.</p>
+  <p id="erro"></p>
+  <div id="chart"></div>
+</main>
+<div class="tip" id="tip"></div>
+
+<script>
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+
+d3.json("imdb_data_100_2026_2.json").then(draw).catch(e => {
+  document.getElementById("erro").textContent =
+    "Não foi possível carregar o arquivo de dados. Abra esta página pelo GitHub Pages (ou por um servidor local) e confirme que imdb_data_100_2026_2.json está na mesma pasta.";
+  console.error(e);
+});
+
+function draw(data) {
+  const width = 1000, height = 720;
+  const links = data.links.map(d => ({...d}));
+  const nodes = data.nodes.map(d => ({...d}));
+
+  const deg = new Map(nodes.map(n => [n.id, 0]));
+  data.links.forEach(l => {
+    deg.set(l.source, deg.get(l.source) + 1);
+    deg.set(l.target, deg.get(l.target) + 1);
+  });
+  nodes.forEach(n => n.degree = deg.get(n.id));
+
+  const color = d3.scaleOrdinal()
+    .domain(["Movie", "Director", "Actor"])
+    .range([css("--movie"), css("--director"), css("--actor")]);
+
+  const rMovie = d3.scaleLinear().domain([8.3, 9.3]).range([5, 16]);
+  const rPerson = d3.scaleSqrt().domain([1, 7]).range([3, 16]);
+  const radius = d => d.group === "Movie" ? rMovie(d.score) : rPerson(d.degree);
+
+  const simulation = d3.forceSimulation(nodes)
+    .force("link", d3.forceLink(links).id(d => d.id).distance(35))
+    .force("charge", d3.forceManyBody().strength(-45))
+    .force("collide", d3.forceCollide(d => radius(d) + 1))
+    .force("x", d3.forceX().strength(0.06))
+    .force("y", d3.forceY().strength(0.06));
+
+  const svg = d3.select("#chart").append("svg")
+    .attr("viewBox", [-width / 2, -height / 2, width, height]);
+
+  const link = svg.append("g").attr("stroke", css("--link")).attr("stroke-opacity", 0.5)
+    .selectAll("line").data(links).join("line");
+
+  const node = svg.append("g").attr("stroke", css("--halo")).attr("stroke-width", 1.2)
+    .selectAll("circle").data(nodes).join("circle")
+      .attr("r", radius)
+      .attr("fill", d => color(d.group));
+
+  const labels = svg.append("g").selectAll("text")
+    .data(nodes.filter(d => d.group !== "Movie" && d.degree >= 3))
+    .join("text").attr("class", "lbl").attr("dy", -10).text(d => d.id.trim());
+
+  // tooltip
+  const tip = document.getElementById("tip");
+  const texto = d => {
+    const nome = d.id.trim();
+    if (d.group === "Movie")
+      return `${nome} (${d.year})\nNota: ${d.score} | Rank: #${d.rank}\nDiretor: ${d.director.trim()}\nElenco: ${d.actor1}, ${d.actor2}`;
+    return `${nome}\n${d.group === "Director" ? "Diretor" : "Ator"}\nFilmes no Top 100: ${d.degree}`;
+  };
+
+  // vizinhança para o destaque
+  const nb = new Map(nodes.map(n => [n.id, new Set([n.id])]));
+  data.links.forEach(l => { nb.get(l.source).add(l.target); nb.get(l.target).add(l.source); });
+
+  node.on("mouseover", (e, d) => {
+        tip.textContent = texto(d); tip.style.opacity = 1;
+        node.attr("opacity", n => nb.get(d.id).has(n.id) ? 1 : 0.12);
+        link.attr("stroke-opacity", l => (l.source.id === d.id || l.target.id === d.id) ? 0.9 : 0.04);
+      })
+      .on("mousemove", e => { tip.style.left = (e.clientX + 14) + "px"; tip.style.top = (e.clientY + 14) + "px"; })
+      .on("mouseout", () => {
+        tip.style.opacity = 0;
+        node.attr("opacity", 1); link.attr("stroke-opacity", 0.5);
+      });
+
+  // legenda
+  const leg = svg.append("g").attr("class", "leg")
+    .attr("transform", `translate(${-width / 2 + 15}, ${-height / 2 + 20})`);
+  [["Movie", "Filme (tamanho = nota)"],
+   ["Director", "Diretor (tamanho = nº de filmes)"],
+   ["Actor", "Ator (tamanho = nº de filmes)"]].forEach(([k, t], i) => {
+    leg.append("circle").attr("cx", 6).attr("cy", i * 20).attr("r", 6).attr("fill", color(k));
+    leg.append("text").attr("x", 18).attr("y", i * 20 + 4).text(t);
+  });
+
+  node.call(d3.drag()
+    .on("start", e => { if (!e.active) simulation.alphaTarget(0.3).restart(); e.subject.fx = e.subject.x; e.subject.fy = e.subject.y; })
+    .on("drag", e => { e.subject.fx = e.x; e.subject.fy = e.y; })
+    .on("end", e => { if (!e.active) simulation.alphaTarget(0); e.subject.fx = null; e.subject.fy = null; }));
+
+  simulation.on("tick", () => {
+    link.attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+    node.attr("cx", d => d.x).attr("cy", d => d.y);
+    labels.attr("x", d => d.x).attr("y", d => d.y);
+  });
+}
+</script>
+</body>
+</html>
